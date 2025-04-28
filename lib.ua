@@ -1,3 +1,3 @@
 ┌─╴Parse
-  SpDel ← ⊜□⊸≠ # Binary Function split at delimiter 
+  SpltD ← ⊜□⊸≠ # Binary Function split at delimiter 
 └─╴
